@@ -14,3 +14,5 @@ buildNumber.properties
 bin/
 .idea/
 demo.iml
+src/main/resources/application.properties
+src/main/resources/application.properties
